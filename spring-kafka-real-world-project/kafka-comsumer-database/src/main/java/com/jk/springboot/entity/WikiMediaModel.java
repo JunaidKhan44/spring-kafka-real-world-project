@@ -5,10 +5,11 @@ import lombok.Setter;
 
 import javax.persistence.*;
 
-@Entity
-@Table(name="wikimedia_recentchange")
+
 @Getter
 @Setter
+@Entity
+@Table(name="wikimedia_recentchange")
 public class WikiMediaModel {
 
     @Id
