@@ -11,6 +11,11 @@ import org.springframework.stereotype.Service;
 import java.net.URI;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * @author Junaid.Khan
+ *
+ */
+
 @Service
 public class WikimediaChangesProducer {
 
