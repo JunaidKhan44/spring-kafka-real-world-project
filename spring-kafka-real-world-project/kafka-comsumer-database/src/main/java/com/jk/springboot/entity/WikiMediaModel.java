@@ -5,6 +5,10 @@ import lombok.Setter;
 
 import javax.persistence.*;
 
+/**
+ * @author Junaid.Khan
+ *
+ */
 
 @Getter
 @Setter
