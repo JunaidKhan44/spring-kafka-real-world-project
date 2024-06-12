@@ -6,6 +6,11 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.kafka.config.TopicBuilder;
 
+/**
+ * @author Junaid.Khan
+ *
+ */
+
 @Configuration
 public class KafkaTopicConfig {
 
