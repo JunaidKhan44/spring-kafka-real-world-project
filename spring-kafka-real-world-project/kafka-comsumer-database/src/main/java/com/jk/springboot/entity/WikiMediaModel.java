@@ -20,8 +20,7 @@ public class WikiMediaModel {
     @GeneratedValue(strategy =
             GenerationType.IDENTITY)
     private Long id;
-
-
+    
     @Lob
     private String   wikiEventData;
 
